@@ -1,0 +1,8 @@
+
+*.pyc
+__pycache__/    
+
+
+.venv/
+
+saas_project/db.sqlite3
